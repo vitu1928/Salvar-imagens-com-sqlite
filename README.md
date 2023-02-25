@@ -1,4 +1,5 @@
-<img src=".github/assets/images/SQLite imageDownload.png">
+<img src="https://i.imgur.com/MpxX0d7.png" alt="salvar-imagens-com-sqlite"/>
+
 <div align="center">
   <h1 id="salvar-dados-com-sqlite">Salvar imagens com sqlite</h1>
   <p>Salva a o <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/charCodeAt">código UTF-16 - Unicode</a> de cada carácter da imagem</p>
